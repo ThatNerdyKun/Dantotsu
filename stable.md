@@ -1,7 +1,7 @@
 # 3.1.0
 
 - **New Features:**
-  - Addons
+  - Additional
     - Torrent support addon
     - Anime downloading addon (mkv files pog)
     - Available in app settings
